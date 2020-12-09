@@ -1,0 +1,11 @@
+1. dnSpy 드래그 해서 수정 후 save all
+2. 저장한 거 확인해보기 C:\Users\82103\job것들\Desktop\testHacking\assets\bin\Data\Managed  여기 수정된거 확인
+3. 원래있던 다운로드에 존재하던 testHacking.apk 파일을 우클릭해서 압축파일 미리보기 클릭
+4. 거기에서 들어가서 있던 내용에 드래그를 하여 덮어쓰기 
+5. 그 apk를 ldplayer에 드래그 하여 apk 설치 후 실행시키기
+
+한것
+
+점수
+체력
+죽지않는것
